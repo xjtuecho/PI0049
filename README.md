@@ -2,6 +2,8 @@
 
 A TMS320F280049 Development Board which compatible with Raspberry PI.
 
+![PI0049](image/190624-PI0049.png)
+
 ## Summary of Resources:
 
 - [User Manual PDF](DOC/PI0049_UM_v19.6.20.pdf)
